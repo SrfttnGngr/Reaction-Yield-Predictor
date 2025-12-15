@@ -26,5 +26,5 @@ The model treats chemical reactions as a "translation" problem.
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Reaction-Yield-Predictor.git](https://github.com/SrfttnGngr/Reaction-Yield-Predictor.git)
+   git clone [https://github.com/SrfttnGngr/Reaction-Yield-Predictor.git](https://github.com/SrfttnGngr/Reaction-Yield-Predictor.git)
    cd Reaction-Yield-Predictor
